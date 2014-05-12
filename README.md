@@ -7,7 +7,7 @@ Inspired by [twitter.com][twitter]'s autocomplete search functionality, typeahea
 
 Getting Started
 ---------------
-Testing 2
+Testing 3
 How you acquire typeahead.js is up to you.
 
 Preferred method:
